@@ -1,4 +1,4 @@
-package main
+package bulletin
 
 import (
 	"encoding/json"
